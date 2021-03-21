@@ -37,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        
         ImageView cook2 = findViewById(R.id.cook2);
         ImageView cook3 = findViewById(R.id.cook3);
         ImageView cook4 = findViewById(R.id.cook4);
